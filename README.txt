@@ -1,1 +1,2 @@
-Hello this is Jovan Davaliev and now i am going to find my purpose
+Hello this is Jovan Davaliev
+This is new change
